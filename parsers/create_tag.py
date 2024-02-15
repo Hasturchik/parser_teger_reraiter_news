@@ -2,7 +2,7 @@ import json
 import re
 import requests
 
-api_key = "sk-XenKoMdgZf9RJTpqiTVZrqKJuCrnNhhfO4xVUIjSjfCxt6lsNz19WtZOXaZX"  # Замените на ваш ключ API
+api_key = ""  # Замените на ваш ключ API
 url_endpoint = "https://api.gen-api.ru/api/v1/networks/chat-gpt-3"
 
 def rewrite_text_with_gen_api(title, article_text):
