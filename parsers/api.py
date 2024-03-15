@@ -4,7 +4,7 @@ import json
 
 app = Flask(__name__)
 
-api_key = "sk-XenKoMdgZf9RJTpqiTVZrqKJuCrnNhhfO4xVUIjSjfCxt6lsNz19WtZOXaZX"  # Замените на ваш ключ API
+api_key = ""  # Замените на ваш ключ API
 url_endpoint = "https://api.gen-api.ru/api/v1/networks/chat-gpt-3"
 
 headers = {
